@@ -15,6 +15,7 @@ Dashboard ini dirancang untuk menjawab beberapa pertanyaan kunci terkait faktor 
 - `README.md`: Dokumentasi petunjuk informasi dan penggunaan proyek.
 - `requirements.txt`: Daftar *Library* Python yang dibutuhkan (Pandas, Matplotlib, Seaborn, Streamlit).
 - `Data Dictionary Cardio.xlsx`: Penjelasan detail mengenai definisi setiap kolom dalam dataset.
+- `url.txt` : berisi link tautan dashboard streamlit
 
 ## Setup Environment
 ### Menggunakan Anaconda:
